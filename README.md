@@ -10,4 +10,4 @@ Access now: https://rich-manager-store.web.app/
 
 
 - [Open app](https://rich-manager-store.web.app/)
-- [Send mail](malito:richard.guesso@pretty-byte.com)
+- [Send mail](mailto:richard.guesso@pretty-byte.com)
