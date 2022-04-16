@@ -1,4 +1,4 @@
-# gerenciamento_loja
+# Rich Manager Store
 
 A new Flutter project for management your store.
 
