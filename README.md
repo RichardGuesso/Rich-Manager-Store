@@ -21,8 +21,7 @@ Libraries used:
 
 ## Screenshots
 
-![Animação](https://user-images.githubusercontent.com/65194302/163681241-692b1125-5335-4c08-b140-7248ad1dfde3.gif)
-![image](https://user-images.githubusercontent.com/65194302/163680874-e6d7c98b-fcd7-453d-a90a-b8a0f387a393.png)
+![Animação](https://user-images.githubusercontent.com/65194302/163681241-692b1125-5335-4c08-b140-7248ad1dfde3.gif) ![image](https://user-images.githubusercontent.com/65194302/163680874-e6d7c98b-fcd7-453d-a90a-b8a0f387a393.png)
 ![image](https://user-images.githubusercontent.com/65194302/163680882-a0ae9cdc-9583-4a44-9781-22abcf2b920b.png)
 ![image](https://user-images.githubusercontent.com/65194302/163680888-c8aa4330-366e-4f4b-8a06-68018168a91c.png)
 ![image](https://user-images.githubusercontent.com/65194302/163680901-e627c35b-32ff-40c7-9820-9a50b0176f35.png)
